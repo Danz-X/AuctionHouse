@@ -1,6 +1,6 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Shock95x/AuctionHouse
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Danz-X/AuctionHousee
 projects:
-  AuctionHouse:
+  AuctionHousee:
     path: ""
     icon: icon.png
     libs:
